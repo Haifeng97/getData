@@ -141,5 +141,5 @@ def operate2():
         book.save(r'f:/camera.xls')
 
 if __name__ == '__main__':
-    #operate1()
+    operate1()
     operate2()

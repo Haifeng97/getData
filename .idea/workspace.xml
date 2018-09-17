@@ -24,8 +24,8 @@
       <file leaf-file-name="operate.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/operate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="88" column="25" lean-forward="false" selection-start-line="88" selection-start-column="25" selection-end-line="88" selection-end-column="25" />
+            <state relative-caret-position="474">
+              <caret line="143" column="4" lean-forward="true" selection-start-line="143" selection-start-column="4" selection-end-line="143" selection-end-column="4" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -59,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/testexcel.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
-              <caret line="3" column="56" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="56" />
+              <caret line="3" column="56" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -81,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/addresses.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="30" lean-forward="true" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+              <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -358,7 +358,7 @@
     <entry file="file://$PROJECT_DIR$/testexcel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="56" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="56" />
+          <caret line="3" column="56" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="56" />
           <folding />
         </state>
       </provider>
@@ -366,7 +366,7 @@
     <entry file="file://$PROJECT_DIR$/addresses.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="true" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -401,8 +401,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/operate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="88" column="25" lean-forward="false" selection-start-line="88" selection-start-column="25" selection-end-line="88" selection-end-column="25" />
+        <state relative-caret-position="474">
+          <caret line="143" column="4" lean-forward="true" selection-start-line="143" selection-start-column="4" selection-end-line="143" selection-end-column="4" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
