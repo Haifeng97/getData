@@ -76,7 +76,7 @@ def operate1():
             pass
 
 
-        book.save(r'f:/phone.xls')
+        book.save(r'f:/1.xls')
 
 def operate2():
     tmp = 'http://detail.zol.com.cn'
@@ -138,7 +138,7 @@ def operate2():
             pass
 
 
-        book.save(r'f:/camera.xls')
+        book.save(r'f:/2.xls')
 
 if __name__ == '__main__':
     operate1()
